@@ -28,7 +28,7 @@ Este comando actualiza el sistema.
 
 ### b) Buscar paquetes
 🔍 Para buscar un paquete, usa el siguiente comando. Por ejemplo, si quieres buscar un paquete:\
-- `dnf search nombre_paquete`\
+- `dnf search nombre_paquete`
 Este comando sirve para buscar el paquete que queremos instalar.
 
 ### c) Instalar un paquete
