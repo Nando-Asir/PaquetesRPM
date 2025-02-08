@@ -1,7 +1,7 @@
 # 🛠️ Tutorial: Manejo de Paquetes RPM en Rocky Linux
 
 ## 1. Presentación  
-👋 En este video tutorial, aprenderás cómo manejar los paquetes RPM en la distribución **Rocky Linux**. Veremos cómo buscar, instalar, actualizar, verificar y desinstalar paquetes utilizando el gestor de paquetes **DNF**.
+👋 En este tutorial, aprenderemos cómo manejar los paquetes RPM en la distribución **Rocky Linux**. Veremos cómo buscar, instalar, actualizar, verificar y desinstalar paquetes utilizando el gestor de paquetes **DNF**.
 
 ## 2. Introducción: ¿Qué son los paquetes RPM?  
 📦 **RPM** (Red Hat Package Manager) es un sistema de gestión de paquetes utilizado en distribuciones como **RHEL**, **CentOS**, y **Rocky Linux**. Permite la instalación, actualización, verificación y eliminación de software de manera eficiente.
