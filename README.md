@@ -21,25 +21,25 @@
 ## 5. Caso práctico
 
 ### a) **Actualizar el sistema**  
-🔄 Para mantener tu sistema actualizado, puedes usar el siguiente comando:
+🔄 Para mantener tu sistema actualizado, puedes usar el siguiente comando:\
 `sudo dnf update -y`
 
 ### b) Buscar paquetes
-🔍 Para buscar un paquete, usa el siguiente comando. Por ejemplo, si quieres buscar el paquete nano:
-`dnf search nombre_paquete`
+🔍 Para buscar un paquete, usa el siguiente comando. Por ejemplo, si quieres buscar un paquete:\
+`dnf search nombre_paquete`\
 Este comando sirve para buscar el paquete que queremos instalar.
 
 ### c) Instalar un paquete
-📥 Una vez que encuentres el paquete que necesitas, puedes instalarlo con el siguiente comando. En este caso, instalaremos nano:
-`sudo dnf install nombre_paquete`
+📥 Una vez que encuentres el paquete que necesitas, puedes instalarlo con el siguiente comando:\
+`sudo dnf install nombre_paquete`\
 Este comando instalará el paquete que indiques.
 
 ### d) Comprobar que se ha instalado
-🔎 Para verificar que un paquete se ha instalado correctamente, usa el siguiente comando:
-`rpm -q nombre_paquete`
+🔎 Para verificar que un paquete se ha instalado correctamente, usa el siguiente comando:\
+`rpm -q nombre_paquete`\
 Este comando te mostrará la versión del paquete instalada en tu sistema.
 
 ### e) Desinstalar el paquete
-❌ Si ya no necesitas un paquete, puedes desinstalarlo con el siguiente comando:
-`sudo dnf remove nombre_paquete`
+❌ Si ya no necesitas un paquete, puedes desinstalarlo con el siguiente comando:\
+`sudo dnf remove nombre_paquete`\
 Este comando eliminará el paquete de tu sistema.
