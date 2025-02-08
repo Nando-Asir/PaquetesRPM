@@ -18,7 +18,7 @@
 ## 4. Repositorios en Rocky Linux  
 📁 Los **repositorios** son las fuentes de donde se descargan los paquetes. En Rocky Linux, la configuración de los repositorios se encuentra en los archivos dentro del directorio `/etc/yum.repos.d/`.
 
-## 5. Caso práctico
+## 5. [Caso práctico](video/video_tutorial)
 
 ### a) **Actualizar el sistema**  
 🔄 Para mantener tu sistema actualizado, puedes usar el siguiente comando:\
