@@ -18,7 +18,7 @@
 - 🔒 Seguridad SELinux
 
 ## 4. Repositorios en Rocky Linux  
-📁 Los **repositorios** son las fuentes de donde se descargan los paquetes. En Rocky Linux, la configuración de los repositorios se encuentra en los archivos dentro del directorio `/etc/yum.repos.d/`.
+📁 Los **repositorios** son las fuentes de donde se descargan los paquetes. En Rocky Linux, la configuración de los repositorios se encuentra en los archivos dentro del directorio: `/etc/yum.repos.d/`.
 
 ## 5. Caso práctico [|Ver Video|](video/video_tutorial.mp4)
 
