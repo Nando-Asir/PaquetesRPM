@@ -16,11 +16,12 @@
 - 🌐 100% **Open Source** y desarrollado por la comunidad.
 - 🖥️ Tiene interfaz gráfica de usuario
 - 🔒 Seguridad SELinux
+- ‼️ Funciona con AMD/Intel X86 de 64 bits (X86_64), ARM (aarch64), IBM Z (S390X) e incluso PowerPC (PPC64LE)
 
 ## 4. Repositorios en Rocky Linux  
 📁 Los **repositorios** son las fuentes de donde se descargan los paquetes. En Rocky Linux, la configuración de los repositorios se encuentra en los archivos dentro del directorio: `/etc/yum.repos.d/`.
 
-## 5. Caso práctico - [Ver Video](https://www.youtube.com/@Duran_Fernando)
+## 5. Caso práctico - [Ver Video](https://www.youtube.com/watch?v=gAogyX_lZio)
 
 ### a) **Actualizar el sistema**  
 🔄 Para mantener tu sistema actualizado, puedes usar el siguiente comando:
